@@ -1,0 +1,9 @@
+#ajay{
+	background-color:#90A3B3;
+	background:url(../img/bgcolor.jpg);
+	min-height:570px;
+	color:#fff;
+	text-rendering:optimizelegiblity;
+	-webkit-font-smoothing:antialiased;
+	padding:70px 0;
+}
